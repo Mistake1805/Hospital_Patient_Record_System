@@ -1,0 +1,7 @@
+PatientID,Name,Age,Ward,AdmitDate,Status
+P001,Rajesh Kumar,45,ICU,2025-12-01,admitted
+P002,Priya Sharma,32,General,2025-12-05,admitted
+P003,Amit Singh,68,ICU,2025-12-10,admitted
+P004,Neha Verma,28,Pediatric,2025-12-12,admitted
+P005,Vikram Patel,55,Emergency,2025-12-15,admitted
+P006,Pushkar Roy,19,ICU,2025-12-16,admitted
