@@ -1,0 +1,27 @@
+HOSPITAL BILLING REPORT
+==================================================
+
+Patient: Rajesh Kumar (ID: P001)
+Ward: ICU | Days: 16
+Status: discharged
+
+Patient: Priya Sharma (ID: P002)
+Ward: General | Days: 12
+Status: admitted
+
+Patient: Amit Singh (ID: P003)
+Ward: ICU | Days: 7
+Status: admitted
+
+Patient: Neha Verma (ID: P004)
+Ward: Pediatric | Days: 5
+Status: admitted
+
+Patient: Vikram Patel (ID: P005)
+Ward: Emergency | Days: 2
+Status: admitted
+
+Patient: Pushkar Roy (ID: P006)
+Ward: ICU | Days: 1
+Status: admitted
+
