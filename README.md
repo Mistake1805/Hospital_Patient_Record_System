@@ -3,4 +3,4 @@
 CLI-based hospital patient record system with CSV storage.
 
 ## Documentation
-Full documentation: [Deep Dive](Documentation.md)
+Full documentation: [Deep Dive](src/Documentation.md)
